@@ -38,6 +38,7 @@ Patient registration, appointment scheduling, document management, consultation 
 ## Requirements
 *Programming in C,Linux,File handling
 
+##
 *Basic Information of the patient,Employee,Inventory is taken from the user
 
 *This project is helpful to keep details of Patient,Employee.Inventory in the Hospital.
