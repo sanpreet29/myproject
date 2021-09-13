@@ -1,4 +1,4 @@
-# myproject
+# Neelam's Digital Register
 ## Description
 Hospital management encompasses all facets of a hospital, as well as the coordination of all of its components. This could include everything from patient care to record keeping to drug inventory and cleanliness.
 Hospitals and clinics are complicated organizations with several departments, specializations, schedules, teams, data kinds, and other factors to consider.
